@@ -174,6 +174,7 @@ links in the navigation are in the hover or focus state.*/
   padding: 30px;
   /*Your code here:*/
   text-align: center;
+  align-self: center;
 }
 
 
